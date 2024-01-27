@@ -1,0 +1,182 @@
+[
+    {
+        "id": "Espada-01",
+        "titulo": "Espada 01",
+        "imagen": "./img/espadas/01.png",
+        "categoria": {
+            "nombre": "Espadas",
+            "id": "Espadas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Espada-02",
+        "titulo": "Espada 02",
+        "imagen": "./img/espadas/02.png",
+        "categoria": {
+            "nombre": "Espadas",
+            "id": "Espadas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "Espada-03",
+        "titulo": "Espada 03",
+        "imagen": "./img/espadas/03.png",
+        "categoria": {
+            "nombre": "Espadas",
+            "id": "Espadas"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "Espada-04",
+        "titulo": "Espada 04",
+        "imagen": "./img/espadas/04.png",
+        "categoria": {
+            "nombre": "Espadas",
+            "id": "Espadas"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "Espada-05",
+        "titulo": "Espada 05",
+        "imagen": "./img/espadas/05.png",
+        "categoria": {
+            "nombre": "Espadas",
+            "id": "Espadas"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "Pocion-01",
+        "titulo": "Pocion 01",
+        "imagen": "./img/Pociones/01.png",
+        "categoria": {
+            "nombre": "Pociones",
+            "id": "Pociones"
+        },
+        "precio": 50
+    },
+    {
+        "id": "Pocion-02",
+        "titulo": "Pocion 02",
+        "imagen": "./img/Pociones/02.jpg",
+        "categoria": {
+            "nombre": "Pociones",
+            "id": "Pociones"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Pocion-03",
+        "titulo": "Pocion 03",
+        "imagen": "./img/Pociones/03.png",
+        "categoria": {
+            "nombre": "Pociones",
+            "id": "Pociones"
+        },
+        "precio": 75
+    },
+    {
+        "id": "Pocion-04",
+        "titulo": "Pocion 04",
+        "imagen": "./img/Pociones/04.png",
+        "categoria": {
+            "nombre": "Pociones",
+            "id": "Pociones"
+        },
+        "precio": 80
+    },
+    {
+        "id": "Pocion-05",
+        "titulo": "Pocion 05",
+        "imagen": "./img/Pociones/05.png",
+        "categoria": {
+            "nombre": "Pociones",
+            "id": "Pociones"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Pocion-06",
+        "titulo": "Pocion 06",
+        "imagen": "./img/Pociones/06.png",
+        "categoria": {
+            "nombre": "Pociones",
+            "id": "Pociones"
+        },
+        "precio": 150
+    },
+    {
+        "id": "Pocion-07",
+        "titulo": "Pocion 07",
+        "imagen": "./img/Pociones/07.png",
+        "categoria": {
+            "nombre": "Pociones",
+            "id": "Pociones"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Pocion-08",
+        "titulo": "Pocion 08",
+        "imagen": "./img/Pociones/08.jpg",
+        "categoria": {
+            "nombre": "Pociones",
+            "id": "Pociones"
+        },
+        "precio": 150
+    },
+    {
+        "id": "Armadura-01",
+        "titulo": "Armadura 01",
+        "imagen": "./img/Armaduras/01.png",
+        "categoria": {
+            "nombre": "Armaduras",
+            "id": "Armaduras"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "Armadura-02",
+        "titulo": "Armadura 02",
+        "imagen": "./img/Armaduras/02.png",
+        "categoria": {
+            "nombre": "Armaduras",
+            "id": "Armaduras"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "Armadura-03",
+        "titulo": "Armadura 03",
+        "imagen": "./img/Armaduras/03.png",
+        "categoria": {
+            "nombre": "Armaduras",
+            "id": "Armaduras"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "Armadura-04",
+        "titulo": "Armadura 04",
+        "imagen": "./img/Armaduras/04.png",
+        "categoria": {
+            "nombre": "Armaduras",
+            "id": "Armaduras"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "Armadura-05",
+        "titulo": "Armadura 05",
+        "imagen": "./img/Armaduras/05.png",
+        "categoria": {
+            "nombre": "Armaduras",
+            "id": "Armaduras"
+        },
+        "precio": 3500
+    }
+]
